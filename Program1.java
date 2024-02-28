@@ -1,13 +1,13 @@
 class Program1 extends ConsoleProgram {
 
   /**
-  * Description
+  * Print out "hello world"
   * @author:
   */
   
   public void run() {
-    // your code goes here
-    
-    
+
+    // Print out hello world
+    System.out.println ("Hello World");
   }
 }
